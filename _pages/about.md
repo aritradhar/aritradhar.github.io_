@@ -39,7 +39,7 @@ You can download my recent CV [here](assets/img/CV_long.pdf).
   
 
 # Work experience
-* **[August 2021 - current]** (Senior) Researcher - Hardware Security, Von Neuman Lab, Huawei Zurich research center, Zurich, Switzerland
+* **[August 2021 - current]** Principal Researcher - Hardware Security, Computing System Lab, Huawei Zurich research center, Zurich, Switzerland
   * AI model security
   * Confidential computing for large-scale distributed system
   * Hardware design for secure AI Accelerator and storage devices
