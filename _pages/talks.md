@@ -5,6 +5,15 @@ title: Talks
 description: Some of the talks on my reserch projects over the years.
 nav: true
 ---
+* Ascend-CC: Confidential Computing on Heterogeneous NPU for Emerging Generative AI Workloads
+ (2023)
+  * ZISC lunch seminer, Institute of Information Security, ETH Zurich
+* Confidential Computing with Heterogeneous Devices at Cloud-Scale (2024)
+  * ACSAC 2024, Honolulu, Hawaii, USA
+* Confidential Computing with Heterogeneous Devices at Cloud-Scale (2024) - Poster
+  * DAC 204, San Francisco, USA
+* Principles for Enabling TEEs on Domain-Specific Accelerators (2024) - Poster
+  * DAC 2024, San Francisco, USA
 * Empowering Data Centers for Next Generation Trusted Computing (2023)
   * ZISC lunch seminer, Institute of Information Security, ETH Zurich
 * Multi-tenancy: Its Complexity and Security Implications (2022)
