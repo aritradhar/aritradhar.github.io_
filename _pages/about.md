@@ -6,7 +6,7 @@ description: Hardware Security Researcher, Street photographer and avid travelle
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_1.jpg
   address: >
     <p>Computing Systems Lab</p>
     <p>Huawei Zurich Research Center</p>
